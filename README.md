@@ -3,6 +3,7 @@
 
 Matlab LSTM Variational Autoencoder do detect anomalies in time series data.
 This repositry contains the code used for the my masters thesis (https://online.unileoben.ac.at/mu_online/wbAbs.showThesis?pThesisNr=75598&pOrgNr=1)
+Download Link: https://pure.unileoben.ac.at/portal/files/6093740/AC16131071.pdf
 
 # Table of Contents
 
