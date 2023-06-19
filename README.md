@@ -20,8 +20,9 @@ $ git clone https://github.com/stefanherdy/Matlab-LSTM-Variational-Autoencoder-a
 ```
 # Usage
 
-This repository contains only some code of my masters thesis. The data and some functions of the used library are not available, because the project was a company project and therefore the publication of the data and some methods is prohibited.
-The main part of this repository, that is of interest for the community, is the developed LSTM_VAE for outlier detection (VAE_Outl_LSTM.m) 
+This repository contains only some code of my masters thesis. The data and some functions of the used library are not available, because the project was a company project and therefore the publication of the data and some methods is prohibited due to copyright and legal issues.
+Nevertheless, I would like to share a few interesting things with the community.
+The main part of this repository, that might be of interest, is the developed LSTM_VAE for outlier detection (VAE_Outl_LSTM.m) and the LSTM time series prediction.
 
 
 # License
