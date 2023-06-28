@@ -28,3 +28,4 @@ The main parts of this repository, that might be of interest, are the two develo
 # License
 
 This project is licensed under the MIT License.
+(C) 2020 Stefan Herdy
